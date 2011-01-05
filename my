@@ -1,3 +1,11 @@
-udo apt-get install xxx    安装软件
+sudo apt-get install xxx    安装软件
 sudo su 切换到管理员帐号   exit回到普通用户
- 
+git:
+	git add 文件
+	git commit -a -m "xxx"
+	git throwh  回复
+	git clone
+	diff  查找两文件差异                  13700507175
+		diff -u x x >x.diff 生成diff
+	patch 补丁
+		patch x <x.diff  打入补丁
