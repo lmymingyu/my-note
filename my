@@ -9,3 +9,7 @@ git:
 		diff -u x x >x.diff 生成diff
 	patch 补丁
 		patch x <x.diff  打入补丁
+	git config --global user.name "lmyming" git改名
+		vim .gitconfig   同上
+
+
