@@ -5,6 +5,7 @@
 ## sudo su 切换到管理员帐号   exit回到普通用户
 
 # git:
+	git clone git://github.com/happypeter/taiyuan-note.git
 	git add 文件
 	git commit -a -m "xxx"
 	git throwh  回复
@@ -19,6 +20,9 @@
 	ssh-keygen -t dsa 创建钥匙
 	sudo apt-get install xclip
 	cat id_dsa.pub |xclip -sel clip
+	git checkout 版本号   回到过去
+	git branch 查看分支
+	git checkout master 回到分支  （对应git checkout 版本号 ）
 
 # note:
 	markdown note.md >h.html
