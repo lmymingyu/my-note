@@ -1,10 +1,10 @@
-#misc
+# misc
 
-##sudo apt-get install xxx    安装软件
+## sudo apt-get install xxx    安装软件
 
-##sudo su 切换到管理员帐号   exit回到普通用户
+## sudo su 切换到管理员帐号   exit回到普通用户
 
-#git:
+# git:
 	git add 文件
 	git commit -a -m "xxx"
 	git throwh  回复
@@ -20,12 +20,12 @@
 	sudo apt-get install xclip
 	cat id_dsa.pub |xclip -sel clip
 
-#note:
+# note:
 	markdown note.md >h.html
 	firefox h.html
 	#gconftool  --recursive-unset  /apps/panel
 	rm  -rf  ~/.gconf/apps/panel
-	pkill  gnome-panel #  面板回复命令
+	pkill  gnome-panel #  面板恢复命令
 	
 
 
