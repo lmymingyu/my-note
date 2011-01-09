@@ -23,6 +23,11 @@
 	git checkout 版本号   回到过去
 	git branch 查看分支
 	git checkout master 回到分支  （对应git checkout 版本号 ）
+	git reset --hard HEAD^ 删除最新版本
+	git add . 改名
+# vim 
+	Ctrl+n 补齐
+    .vim/snippets/c.snippets  定义vim snippets
 
 # note:
 	markdown note.md >h.html
